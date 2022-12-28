@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm phillip park</h1>
+<h1 align="center">👋 I'm phillip park</h1>
 <p align="left"> <a href="https://twitter.com/xxxxne0" target="blank"><img src="https://img.shields.io/twitter/follow/xxxxne0?logo=twitter&style=for-the-badge" alt="xxxxne0" /></a> </p>
 
 - My Block-chain investing BLOG [https://blog.naver.com/xxneo](https://blog.naver.com/xxneo)
