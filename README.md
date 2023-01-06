@@ -7,6 +7,4 @@
 
 
 
-Hey there 👋
-
-I’m Phillip Park.
+👋
